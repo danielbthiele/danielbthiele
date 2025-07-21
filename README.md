@@ -1,5 +1,5 @@
-#
-Hello, I am Daniel!<br>Im a Electronic Engineering student, Passionate about backend development and mobile/web applications.<br>🔭 Currently working on TasKING https://github.com/danielbthiele/taskingproject
+## Hello,
+I am Daniel!<br>Im a Electronic Engineering student, Passionate about backend development and mobile/web applications.<br>🔭 Currently working on TasKING https://github.com/danielbthiele/taskingproject
 
 
 ## 🌐 Socials:
