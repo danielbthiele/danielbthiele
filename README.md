@@ -12,8 +12,6 @@ Hello, I am Daniel!<br>Im a Electronic Engineering student, Passionate about bac
 ![](https://nirzak-streak-stats.vercel.app/?user=danielbthiele&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbthiele&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=danielbthiele&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=danielbthiele&icon=0&color=0)](https://visitcount.itsvg.in)
