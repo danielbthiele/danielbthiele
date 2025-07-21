@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, eu sou o Daniel!<br>Sou estudante de Engenharia Eletrônica, apaixonado por desenvolvimento backend e aplicativos mobile/web<br>🔭 Atualmente trabalhando no TasKING https://github.com/danielbthiele/taskingproject
+Hello, I am Daniel!<br>Im a Electronic Engineering student, Passionate about backend development and mobile/web applications.<br>🔭 Currently working on TasKING https://github.com/danielbthiele/taskingproject
 
 
 ## 🌐 Socials:
